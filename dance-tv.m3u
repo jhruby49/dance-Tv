@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DanceTV1" tvg-name="Best of Dance TV" tvg-logo="https://raw.githubusercontent.com/jhruby49/dance-Tv/main/best-of-dance-tv.png" group-title="Music",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-id="DanceTV3" tvg-name="Dance TV Techno" tvg-logo="https://raw.githubusercontent.com/jhruby49/dance-Tv/main/dance-tv-techno.png" group-title="Music",Dance TV Techno
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+
+#EXTINF:-1 tvg-id="DanceTV4" tvg-name="Techno Warehouse" tvg-logo="https://raw.githubusercontent.com/jhruby49/dance-Tv/main/techno-warehouse.png" group-title="Music",Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+
+#EXTINF:-1 tvg-id="DanceTV5" tvg-name="House Floor" tvg-logo="https://raw.githubusercontent.com/jhruby49/dance-Tv/main/house-floor.png" group-title="Music",House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
+#EXTINF:-1 tvg-id="DanceTV7" tvg-name="EDM Mainstage" tvg-logo="https://raw.githubusercontent.com/jhruby49/dance-Tv/main/edm-mainstage.png" group-title="Music",EDM Mainstage
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+
+#EXTINF:-1 tvg-id="DanceTV6" tvg-name="Minimal Deep Tech" tvg-logo="https://raw.githubusercontent.com/jhruby49/dance-Tv/main/minimal-deep-tech.png" group-title="Music",Minimal Deep Tech
+https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
